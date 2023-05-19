@@ -109,5 +109,6 @@ void cal() {
 	} else {
 		printf("\n Process are in dead lock");
 		printf("\n System is in unsafe state");
+		print("hello");
 	}
 }
